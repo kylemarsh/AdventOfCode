@@ -1,6 +1,6 @@
 # AdventOfCode
 Solutions to the Advent of Code Challenges
 
-Organized by Year and Day of the challenge. Each directory contains a text file
-describing the challenge, a text file that is the input, and whatever code I
-came up with to solve the challenge.
+Organized by Year and Day of the challenge. The README.md for each directory
+describes the challenge, and each challenge directory contains its input as
+`input.txt` along with whatever code I came up with to solve the challenge.
